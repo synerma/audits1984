@@ -1,7 +1,7 @@
 require_relative "lib/audits1984/version"
 
 Gem::Specification.new do |spec|
-  spec.name        = "audits1984"
+  spec.name        = "synerma-audits1984"
   spec.version     = Audits1984::VERSION
   spec.authors     = [ "Jorge Manrubia" ]
   spec.email       = [ "jorge.manrubia@gmail.com" ]
